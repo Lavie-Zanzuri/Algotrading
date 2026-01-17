@@ -1,19 +1,4 @@
 {
-  "current_price_PLTR": {
-    "value": 50.25,
-    "expires_at": 1768651881.9576051,
-    "created_at": 1768651581.9576058
-  },
-  "current_price_NFLX": {
-    "value": 485.5,
-    "expires_at": 1768651881.959767,
-    "created_at": 1768651581.959768
-  },
-  "current_price_PLTK": {
-    "value": 8.75,
-    "expires_at": 1768651881.960274,
-    "created_at": 1768651581.960274
-  },
   "historical_PLTR_7d": {
     "value": [
       {
@@ -85,5 +70,20 @@
     ],
     "expires_at": 1768655181.970942,
     "created_at": 1768651581.970942
+  },
+  "current_price_PLTR": {
+    "value": 50.25,
+    "expires_at": 1768652836.2629209,
+    "created_at": 1768652536.262923
+  },
+  "current_price_NFLX": {
+    "value": 485.5,
+    "expires_at": 1768652836.263626,
+    "created_at": 1768652536.263627
+  },
+  "current_price_PLTK": {
+    "value": 8.75,
+    "expires_at": 1768652836.2642019,
+    "created_at": 1768652536.2642019
   }
 }
