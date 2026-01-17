@@ -1,0 +1,89 @@
+{
+  "current_price_PLTR": {
+    "value": 50.25,
+    "expires_at": 1768651881.9576051,
+    "created_at": 1768651581.9576058
+  },
+  "current_price_NFLX": {
+    "value": 485.5,
+    "expires_at": 1768651881.959767,
+    "created_at": 1768651581.959768
+  },
+  "current_price_PLTK": {
+    "value": 8.75,
+    "expires_at": 1768651881.960274,
+    "created_at": 1768651581.960274
+  },
+  "historical_PLTR_7d": {
+    "value": [
+      {
+        "date": "2026-01-10",
+        "close": 48.5,
+        "volume": 1000000
+      },
+      {
+        "date": "2026-01-11",
+        "close": 49.0,
+        "volume": 1010000
+      },
+      {
+        "date": "2026-01-12",
+        "close": 49.5,
+        "volume": 1020000
+      },
+      {
+        "date": "2026-01-13",
+        "close": 50.0,
+        "volume": 1030000
+      },
+      {
+        "date": "2026-01-14",
+        "close": 50.5,
+        "volume": 1040000
+      },
+      {
+        "date": "2026-01-15",
+        "close": 51.0,
+        "volume": 1050000
+      },
+      {
+        "date": "2026-01-16",
+        "close": 51.5,
+        "volume": 1060000
+      }
+    ],
+    "expires_at": 1768655181.969524,
+    "created_at": 1768651581.969525
+  },
+  "historical_PLTR_5d": {
+    "value": [
+      {
+        "date": "2026-01-12",
+        "close": 49.0,
+        "volume": 1000000
+      },
+      {
+        "date": "2026-01-13",
+        "close": 49.5,
+        "volume": 1010000
+      },
+      {
+        "date": "2026-01-14",
+        "close": 50.0,
+        "volume": 1020000
+      },
+      {
+        "date": "2026-01-15",
+        "close": 50.5,
+        "volume": 1030000
+      },
+      {
+        "date": "2026-01-16",
+        "close": 51.0,
+        "volume": 1040000
+      }
+    ],
+    "expires_at": 1768655181.970942,
+    "created_at": 1768651581.970942
+  }
+}
