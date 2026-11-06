@@ -34,6 +34,7 @@ Python · CrewAI · Alpaca API · OpenAI API · pytest · pandas
 
 ```
 src/
+  agent_trader.py           # Main entry point
   alpaca_client.py          # Alpaca API wrapper (with mock support)
   trading_crew.py           # The 4-agent CrewAI crew
   market_analyst_agent.py
@@ -74,5 +75,5 @@ pytest
 Run the trader (press Ctrl+C to stop):
 
 ```bash
-python agent_trader.py
+python -m src.agent_trader
 ```
